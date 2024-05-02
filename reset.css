@@ -16,3 +16,7 @@ button{
   border: none;
   background: transparent;
 }
+
+:root {
+  --main-col: #0bab6d;
+}
